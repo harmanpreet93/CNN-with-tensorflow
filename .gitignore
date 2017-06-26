@@ -1,0 +1,5 @@
+tensorboard/
+data/
+.vs/
+.
+.ipynb_checkpoints/
