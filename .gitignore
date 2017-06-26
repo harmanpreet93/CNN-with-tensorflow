@@ -1,5 +1,5 @@
 tensorboard/
 data/
 .vs/
-.
+.gitattributes
 .ipynb_checkpoints/
